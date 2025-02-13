@@ -11,5 +11,17 @@
         <p> Our grooming process ensures the comfortability, the best results and gurantees an elevation of your pets looks.Contact us for any enquiries and for the best services in the city</p>
       </div>
     </header>
+    <h2> Our Services:</h2>
+    <p> We offer a wide range of pet grooming services to keep your furry buddy <strong> clean,happy and healthy </strong></p>
+    <ul>
+      <li> Bathing & Deep Shampooing</li>
+      <li> Haircuts & Styling</li>
+      <li> Nail Clipping </li>
+      <li> Ear Cleansing</li>
+      <li> Teeth Brushing</li>
+      <li> Flea and Tick Treatment </li>
+      <li> De-shedding Treatment</li>
+      <li> Paw Srubbing</li>
+    </ul>
   </body>
 </head>
